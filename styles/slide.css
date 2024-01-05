@@ -1,0 +1,26 @@
+div{
+    background-color: darksalmon;
+    color: cyan;
+}
+
+img{
+    height: 300px;
+    width: 900px;
+}
+
+.bd{
+    background-color: dodgerblue;
+    color: brown;
+}
+
+h3{
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+}
+
+h2{
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+}
